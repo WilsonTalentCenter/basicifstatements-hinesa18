@@ -17,7 +17,7 @@ public class Main {
 		//write an if statement that prints out "Why did the man fall down the well?" if the input was less than 5
 		if (var1<5);
         System.out.println("Why did the man fall down the well?");
-		//write an if statement that prints out "Because he couldn’t see that well." if the input was greater than 1
+		//write an if statement that prints out "Because he couldnt see that well." if the input was greater than 1
 		if (var1>1);
         System.out.println("Because he couldnt see that well.");
 		//write an if statement that prints out "When does a joke become a dad joke?"  if the input was equal to 8
