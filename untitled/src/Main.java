@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Why did the man fall down the well?");
 		//write an if statement that prints out "Because he couldn’t see that well." if the input was greater than 1
 		if (var1>1);
-        System.out.println("Because he couldn't see that well.");
+        System.out.println("Because he couldn’t see that well.");
 		//write an if statement that prints out "When does a joke become a dad joke?"  if the input was equal to 8
 		if (var1 == 8);
         System.out.println("When does a joke become a dad joke?");
